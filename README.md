@@ -17,4 +17,7 @@ It was developed in 2005 by Linus Torvalds, and it is free and open source. Git 
 - Branching and Merging
 - Traceability
 
+#Setting Up A Repository
+
+
 
