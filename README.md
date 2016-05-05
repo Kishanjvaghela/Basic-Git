@@ -19,5 +19,13 @@ It was developed in 2005 by Linus Torvalds, and it is free and open source. Git 
 
 #Setting Up A Repository
 
+## git init
+Using `git init` you can create an empty repository or converting an existing project to git repository.
+
+#### Repository 
+This is the place where you organise a project. You can add folders, code files, images, videos etc. to a repository associated with your project. 
+#### Readme
+A README file is commonly added to a repository, so that people who view your repository can understand what is your repository about and how to use it.
+
 
 
