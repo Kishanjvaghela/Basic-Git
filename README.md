@@ -33,5 +33,11 @@ This is the place where you organise a project. You can add folders, code files,
 ###### Readme
 A README file is commonly added to a repository, so that people who view your repository can understand what is your repository about and how to use it.
 
+#### git clone
+Using `git clone` you can copy an existing git repo to local machine. 
 
-
+######Example
+```
+cd <project directory>
+git clone <repo>
+```
