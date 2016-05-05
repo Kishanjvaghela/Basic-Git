@@ -22,7 +22,7 @@ It was developed in 2005 by Linus Torvalds, and it is free and open source. Git 
 #### git init
 Using `git init` you can create an empty repository or converting an existing project to git repository. A .git folder will be added to your project folder which will contain all the necessary metadata for the repo.
 
-**Example**
+######Example
 ```
 cd <project directory>
 git init
